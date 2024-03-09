@@ -1,4 +1,4 @@
-<h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px"/>! Eu Sou o Carlos Mabub 🤓</h2> 
+<h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px" width="25px"/>! Eu Sou o Carlos Mabub 🤓</h2> 
 
 ##
 
